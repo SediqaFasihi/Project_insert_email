@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciao Italia!</string>
+    <string name="hello_world" translatable="false">Ciao Italia!</string>
+    <string name="title" translatable="false">Titolo</string>
+</resources>

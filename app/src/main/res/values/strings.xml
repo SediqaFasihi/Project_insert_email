@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world" translatable="false">Hello_World!</string>
+    <string name="input_email_hint" translatable="false">Insert your email</string>
+    <string name="action_input" translatable="false">Take_Input</string>
+    <string name="title" translatable="false">Inset your email</string>
+
+</resources>
